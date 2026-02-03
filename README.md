@@ -1,6 +1,10 @@
 # Pogl (Pascal opengl render)  
 Program that can render and manipulate .obj files  
   
+
+**Requirements: fpc, libglut** 
+
+**INSTALL**  
 **1. Clone repository**  
 ```Shell
 git clone https://github.com/myaccountry/pogl.git  
